@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "proyecto-editorjs"
+    }
+  },
+  "defaultProject": "proyecto-editorjs",
+  "cli": {
+    "analytics": false
+  }
 }
